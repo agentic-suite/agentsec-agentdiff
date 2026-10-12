@@ -2,9 +2,9 @@
 
 > **Alert / verify** — Dry-run conversion engine that shows what a policy would have blocked.
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentdiff/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentdiff)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentic-suite/agentdiff/badge)](https://scorecard.dev/viewer/?uri=github.com/agentic-suite/agentdiff)
 
-Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
+Part of the [agentic-suite](https://github.com/agentic-suite) — open-source,
 harness-agnostic security for AI agents.
 
 ## Status
@@ -43,9 +43,9 @@ harness-agnostic security for AI agents.
 
 ## Documentation
 
-- Contributing: [org guide](https://github.com/agentsec-ecosystem/.github/blob/main/CONTRIBUTING.md)
+- Contributing: [org guide](https://github.com/agentic-suite/.github/blob/main/CONTRIBUTING.md)
 - Security: [SECURITY.md](./SECURITY.md)
-- Roadmap: [agentsec-ecosystem](https://github.com/agentsec-ecosystem)
+- Roadmap: [agentic-suite](https://github.com/agentic-suite)
 
 ## License
 

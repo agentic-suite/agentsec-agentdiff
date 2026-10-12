@@ -2,7 +2,7 @@
 
 > **Alert / verify** — Dry-run conversion engine that shows what a policy would have blocked.
 
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentic-suite/agentdiff/badge)](https://scorecard.dev/viewer/?uri=github.com/agentic-suite/agentdiff)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentic-suite/agentsec-agentdiff/badge)](https://scorecard.dev/viewer/?uri=github.com/agentic-suite/agentsec-agentdiff)
 
 Part of the [agentic-suite](https://github.com/agentic-suite) — open-source,
 harness-agnostic security for AI agents.
